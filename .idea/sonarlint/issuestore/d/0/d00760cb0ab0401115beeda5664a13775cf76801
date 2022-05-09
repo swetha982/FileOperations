@@ -1,0 +1,23 @@
+
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Ñ‚Ñ8ú˜“™ˆ0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(£½Å×8ú˜“™ˆ0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¤á€™ÿÿÿÿÿ8ú˜“™ˆ0
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ğµ¸¡úÿÿÿÿ8ú˜“™ˆ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Í¯şÿÿÿÿ8ú˜“™ˆ0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ëñˆŒøÿÿÿÿ8ú˜“™ˆ0
+X	java:S125?"<This block of commented-out lines of code should be removed.(²´œ†8Ş„ü“Š0
+k
+java:S4042$"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æ–¹õ8ƒ›”™ˆ0
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(°‡Ğ¸8ú˜“™ˆ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹ŒÄ‘8ú˜“™ˆ0
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ãÛ‚—8ú˜“™ˆ0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ƒ›”™ˆ0
+U
+java:S1197A"8Move the array designator from the variable to the type.(£³÷á8ú˜“™ˆ0
+Z
+java:S11970"8Move the array designator from the variable to the type.(ŠÒÒƒûÿÿÿÿ8ú˜“™ˆ0
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ñ£Íÿ8ú˜“™ˆ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ8ú˜“™ˆ0
+Z
+java:S1197M"8Move the array designator from the variable to the type.(ŠÒÒƒûÿÿÿÿ8ú˜“™ˆ0
